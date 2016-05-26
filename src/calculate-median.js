@@ -20,7 +20,5 @@ function calculate_median(arr) {
   	return array[(array.length - 1)/2];
 }
 
-var a = 3/2;
-alert(a);
 
 module.exports = calculate_median;
